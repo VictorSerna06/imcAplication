@@ -1,0 +1,33 @@
+<resources>
+    <!-- Vistas -->
+    <string name="app_name">imcAplication</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado"> Tu Resultado</string>
+    <string name="recacular">Re-Calcular</string>
+
+    <!-- Mensaje de error -->
+    <string name="error">Error</string>
+
+    <!-- Bajo peso -->
+    <string name="titulo_bajo_peso">Bajo peso</string>
+    <string name="descripcion_bajo_peso">Estas por debajo de lo optimo para tu peso y altura.</string>
+
+    <!-- Peso normal -->
+    <string name="titulo_peso_normal">Peso normal</string>
+    <string name="descripcio_peso_normal">Estas en lo optimo para tu peso y altura.</string>
+
+    <!-- Sobrepeso -->
+    <string name="titulo_sobrepeso">Sobrepeso</string>
+    <string name="descripcion_sobrepeso">Estas por encima de lo optimo para tu peso y altura.</string>
+
+    <!-- Obesidad -->
+    <string name="titulo_obesidad">Obesidad</string>
+    <string name="descripcion_obesidad">Estas MUY por encima de lo optimo para tu peso y altura.</string>
+
+
+</resources>

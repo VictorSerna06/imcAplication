@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#EBE8E8</color>
+    <color name="greyF">#9B9B9B</color>
+
+    <!-- Colores IMC -->
+    <color name="peso_bajo">#FFEB3B</color>
+    <color name="normal">#4BE63A</color>
+    <color name="sobrepeso">#FFA624</color>
+    <color name="obesidad">#FA0C0C</color>
+</resources>
